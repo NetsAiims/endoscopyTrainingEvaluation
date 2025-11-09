@@ -1,0 +1,13 @@
+#=======Backend=========
+Backend/.venv
+Backend/__pycache__
+Backend/.env
+Backend/models/__pycache__
+Backend/modelnew/__pycache__
+
+#=======Frontend========
+Frontend/.venv
+Frontend/__pycache__
+Frontend/GUIREC.spec
+Frontend/build
+Frontend/dist

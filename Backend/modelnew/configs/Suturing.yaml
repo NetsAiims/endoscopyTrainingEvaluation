@@ -1,0 +1,17 @@
+# basic setting
+workers: 16
+
+# model setting
+backbone: 'videomae'
+regressor: 'mlp'
+feature_dim: 768
+projection_dim: 512
+
+# dataset setting
+dataset: 'Suturing'
+data_root: '/home/mrunmay/scratch/ActionQualityAssessment/datasets'
+
+# optimizer abd training setting
+temperature: 1
+lr: 0.001
+epochs: 100

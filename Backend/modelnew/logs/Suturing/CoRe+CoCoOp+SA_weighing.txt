@@ -1,0 +1,91 @@
+----------------------------
+Load yaml from configs/Suturing.yaml.
+----------------------------
+
+----------------------------
+Load yaml from configs/Suturing.yaml.
+----------------------------
+
+----------------------------
+Load yaml from configs/Suturing.yaml.
+----------------------------
+
+----------------------------
+Load yaml from configs/Suturing.yaml.
+----------------------------
+
+Epoch [1/150]: Train Stats: Rho: 0.234733   RL2: 383.905064
+Epoch [1/150]: Test Stats: Rho: 0.516720   RL2: 100.562200   Best Rho: 0.516720
+
+Epoch [2/150]: Train Stats: Rho: -0.014345   RL2: 59.091372
+Epoch [2/150]: Test Stats: Rho: 0.407297   RL2: 15.861844   Best Rho: 0.516720
+
+Epoch [3/150]: Train Stats: Rho: 0.356646   RL2: 9.234722
+Epoch [3/150]: Test Stats: Rho: 0.693012   RL2: 34.746197   Best Rho: 0.693012
+
+Epoch [4/150]: Train Stats: Rho: 0.074948   RL2: 12.133942
+Epoch [4/150]: Test Stats: Rho: 0.729487   RL2: 13.926481   Best Rho: 0.729487
+
+Epoch [5/150]: Train Stats: Rho: -0.167251   RL2: 45.309993
+Epoch [5/150]: Test Stats: Rho: 0.778119   RL2: 11.921806   Best Rho: 0.778119
+
+Epoch [6/150]: Train Stats: Rho: 0.359389   RL2: 14.714688
+Epoch [6/150]: Test Stats: Rho: -0.601826   RL2: 13.218633   Best Rho: 0.778119
+
+Epoch [7/150]: Train Stats: Rho: 0.148170   RL2: 14.411093
+Epoch [7/150]: Test Stats: Rho: -0.802435   RL2: 14.536744   Best Rho: 0.778119
+
+Epoch [8/150]: Train Stats: Rho: 0.520247   RL2: 6.688770
+Epoch [8/150]: Test Stats: Rho: -0.802435   RL2: 12.264642   Best Rho: 0.778119
+
+Epoch [9/150]: Train Stats: Rho: 0.251365   RL2: 14.278074
+Epoch [9/150]: Test Stats: Rho: 0.674775   RL2: 12.457077   Best Rho: 0.778119
+
+Epoch [10/150]: Train Stats: Rho: 0.157659   RL2: 8.878512
+Epoch [10/150]: Test Stats: Rho: 0.792683   RL2: 15.354839   Best Rho: 0.792683
+
+Epoch [11/150]: Train Stats: Rho: -0.006252   RL2: 22.337517
+Epoch [11/150]: Test Stats: Rho: 0.802435   RL2: 14.240331   Best Rho: 0.802435
+
+Epoch [12/150]: Train Stats: Rho: 0.187065   RL2: 10.356289
+Epoch [12/150]: Test Stats: Rho: 0.802435   RL2: 12.275194   Best Rho: 0.802435
+
+Epoch [13/150]: Train Stats: Rho: 0.281013   RL2: 10.463477
+Epoch [13/150]: Test Stats: Rho: 0.802435   RL2: 15.117693   Best Rho: 0.802435
+
+Epoch [14/150]: Train Stats: Rho: 0.059770   RL2: 15.911499
+Epoch [14/150]: Test Stats: Rho: 0.802435   RL2: 13.931952   Best Rho: 0.802435
+
+Epoch [15/150]: Train Stats: Rho: 0.023018   RL2: 12.636492
+Epoch [15/150]: Test Stats: Rho: 0.778119   RL2: 12.771479   Best Rho: 0.802435
+
+Epoch [16/150]: Train Stats: Rho: 0.032190   RL2: 21.158234
+Epoch [16/150]: Test Stats: Rho: 0.802435   RL2: 38.305367   Best Rho: 0.802435
+
+Epoch [17/150]: Train Stats: Rho: -0.216193   RL2: 48.130995
+Epoch [17/150]: Test Stats: Rho: 0.778119   RL2: 93.823552   Best Rho: 0.802435
+
+Epoch [18/150]: Train Stats: Rho: -0.158109   RL2: 24.987292
+Epoch [18/150]: Test Stats: Rho: 0.802435   RL2: 31.284516   Best Rho: 0.802435
+
+Epoch [19/150]: Train Stats: Rho: 0.199137   RL2: 14.534602
+Epoch [19/150]: Test Stats: Rho: 0.802435   RL2: 15.778634   Best Rho: 0.802435
+
+Epoch [20/150]: Train Stats: Rho: -0.051320   RL2: 13.136091
+Epoch [20/150]: Test Stats: Rho: 0.802435   RL2: 13.412765   Best Rho: 0.802435
+
+Epoch [21/150]: Train Stats: Rho: -0.142254   RL2: 11.362708
+Epoch [21/150]: Test Stats: Rho: 0.778119   RL2: 12.097236   Best Rho: 0.802435
+
+Epoch [22/150]: Train Stats: Rho: -0.136206   RL2: 16.608688
+Epoch [22/150]: Test Stats: Rho: 0.778119   RL2: 13.473625   Best Rho: 0.802435
+
+Epoch [23/150]: Train Stats: Rho: 0.083748   RL2: 11.041719
+Epoch [23/150]: Test Stats: Rho: 0.778119   RL2: 15.238356   Best Rho: 0.802435
+
+Epoch [24/150]: Train Stats: Rho: -0.139674   RL2: 12.769401
+Epoch [24/150]: Test Stats: Rho: 0.729487   RL2: 49.150238   Best Rho: 0.802435
+
+Epoch [25/150]: Train Stats: Rho: 0.206346   RL2: 21.423454
+Epoch [25/150]: Test Stats: Rho: 0.699091   RL2: 25.258053   Best Rho: 0.802435
+
