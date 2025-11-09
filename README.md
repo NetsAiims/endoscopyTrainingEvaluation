@@ -38,7 +38,7 @@ This project integrates real-world medical hardware, AI inference, and user-frie
 ## 🧠 System Architecture
 
 ### Simplified HLD System Architecture
-![Simplified HLD System Architecture](ReferenceImages\SimplifiedHLD.png)
+![Simplified HLD System Architecture](ReferenceImages/SimplifiedHLD.png)
 
 | Component | Technology |
 |-----------|-----------|
@@ -133,10 +133,10 @@ The `main.py` file has a function to spawn 4 uvicorn workers for parallel video 
 ## 📸 UI Preview
 
 ### Initial UI
-![Initial UI](ReferenceImages\InitialUI.png)
+![Initial UI](ReferenceImages/InitialUI.png)
 
 ### After Successful Video Submission
-![After Successful Video Submission](ReferenceImages\VideoSubmissionSuccess.png)
+![After Successful Video Submission](ReferenceImages/VideoSubmissionSuccess.png)
 
 
 ---
